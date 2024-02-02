@@ -10,7 +10,7 @@ Handles:
 
 INSTALLATION:
 
-This engine is completely portable, and will unpack the necessary files it needs whenever they are not present when it is run.
+This engine is completely portable, and will unpack the necessary files it needs whenever they are not present when it is run. It does not touch the registry, rather it uses local config .ini files for controlling its variables, speed values, and enabling or disabling routines or features.
 
 Place the "AutoHotspotHandler.exe", file at the root of your C:\ drive. 
 
