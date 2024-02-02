@@ -91,7 +91,7 @@ GLOBAL ModuleCall0x002 := A_MyDocuments . "\" . FolderTitleRoot . "\" . ModulesP
 
 GLOBAL ModuleCall0x003 := A_MyDocuments . "\" . FolderTitleRoot . "\" . ModulesPod . "\BNET Overseer\" . Module0x003
 
-GLOBAL ModuleCall0x004 := A_MyDocuments . "\" . FolderTitleRoot . "\" . ModulesPod . "\BNET Overseer\" . Module0x004
+GLOBAL ModuleCall0x004 := A_MyDocuments . "\" . FolderTitleRoot . "\" . ModulesPod . "\" . Module0x004
 
 FileCreateDir, %create_config_path%
 FileCreateDir, %create_modules_path%
