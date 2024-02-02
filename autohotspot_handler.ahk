@@ -99,28 +99,28 @@ FileCreateDir, %create_bnetOverseer_path%
 Sleep, 350
 
 
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\start_hotspot.ps1, C:\start_hotspot.ps1, 1
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\start_hotspot_verify.ps1, C:\start_hotspot_verify.ps1, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\start_hotspot.ps1, C:\start_hotspot.ps1, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\start_hotspot_verify.ps1, C:\start_hotspot_verify.ps1, 1
 
 ; FileInstall, %A_ScriptDir%\%ModulesPod%\%Module0x001%, %create_config_path%\%ModulesPod%\%Module0x001%, 0
 ; FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\autohotspot_handler.cfg, C:\Users\thann\Documents\HotSpots\autohotspot_handler.cfg, 0
 ; FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\autohotspot_handler.cfg, C:\autohotspot_handler.cfg, 0
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\chain_core.cfg, C:\Users\thann\Documents\ChainOverflow\chain_core.cfg, 0
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NULL.exe, C:\Users\thann\Documents\ChainOverflow\null\null.exe, 0
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\chain_core.cfg, C:\Users\thann\Documents\ChainOverflow\chain_core.cfg, 0
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\NULL.exe, C:\Users\thann\Documents\ChainOverflow\null\null.exe, 0
 ; FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\chain_core.cfg, C:\chain_core.cfg, 0
 
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\start_hotspot.ps1, C:\Users\thann\Documents\ChainOverflow\start_hotspot.ps1, 1
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\start_hotspot_mine.ps1, C:\Users\thann\Documents\ChainOverflow\start_hotspot_mine.ps1, 1
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\start_hotspot_default.ps1, C:\Users\thann\Documents\ChainOverflow\start_hotspot_default.ps1, 1
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\start_hotspot_verify.ps1, C:\Users\thann\Documents\ChainOverflow\start_hotspot_verify.ps1, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\start_hotspot.ps1, C:\Users\thann\Documents\ChainOverflow\start_hotspot.ps1, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\start_hotspot_mine.ps1, C:\Users\thann\Documents\ChainOverflow\start_hotspot_mine.ps1, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\start_hotspot_default.ps1, C:\Users\thann\Documents\ChainOverflow\start_hotspot_default.ps1, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\start_hotspot_verify.ps1, C:\Users\thann\Documents\ChainOverflow\start_hotspot_verify.ps1, 1
 
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\modules\pdaUptime.exe, C:\Users\thann\Documents\ChainOverflow\modules\pdaUptime.exe, 1
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\modules\StopWatch.exe, C:\Users\thann\Documents\ChainOverflow\modules\StopWatch.exe, 1
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\modules\CounterTimer.exe, C:\Users\thann\Documents\ChainOverflow\modules\CounterTimer.exe, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\modules\pdaUptime.exe, C:\Users\thann\Documents\ChainOverflow\modules\pdaUptime.exe, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\modules\StopWatch.exe, C:\Users\thann\Documents\ChainOverflow\modules\StopWatch.exe, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\modules\CounterTimer.exe, C:\Users\thann\Documents\ChainOverflow\modules\CounterTimer.exe, 1
 
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\modules\steam_battleOverseer\bnet_overseer.exe, C:\Users\thann\Documents\ChainOverflow\modules\BNET Overseer\bnet_overseer.exe, 0
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\modules\steam_battleOverseer\config_core.cfg, C:\Users\thann\Documents\ChainOverflow\modules\BNET Overseer\config_core.cfg, 1
-FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\modules\steam_battleOverseer\engine.cfg, C:\Users\thann\Documents\ChainOverflow\modules\BNET Overseer\engine.cfg,1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\modules\steam_battleOverseer\bnet_overseer.exe, C:\Users\thann\Documents\ChainOverflow\modules\BNET Overseer\bnet_overseer.exe, 0
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\modules\steam_battleOverseer\config_core.cfg, C:\Users\thann\Documents\ChainOverflow\modules\BNET Overseer\config_core.cfg, 1
+FileInstall, D:\#Manifest\#DigitalSea\AutoHotkey\_____PROJECTS______\TOOLS\2023 WINDOWS STARTUP LAUNCHER ENGINE\NewGithubSourceFiles\modules\steam_battleOverseer\engine.cfg, C:\Users\thann\Documents\ChainOverflow\modules\BNET Overseer\engine.cfg,1
 
 IniRead, ShowDebugMessages1, %config_path%, DEBUG, ShowBreakpoints, 0
 
