@@ -10,6 +10,8 @@ Handles:
 
 INSTALLATION:
 
+This engine is completely portable, and will unpack the necessary files it needs whenever they are not present when it is run.
+
 Place the "AutoHotspotHandler.exe", file at the root of your C:\ drive. 
 
 Optionally, you may use the Windows Task Scheduler to create a task with the condition to run on Logon using administrator priviledges, so this just automatically runs Chain Overflow the first time you logon to your Windows account.
