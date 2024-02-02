@@ -10,7 +10,7 @@ Handles:
 
 INSTALLATION:
 
-This engine is completely portable, and will unpack the necessary files it needs whenever they are not present when it is run. It does not touch the registry, rather it uses local config .ini files for controlling its variables, speed values, and enabling or disabling routines or features.
+*This engine is completely portable, and will unpack the necessary files it needs whenever they are not present when it is run. It does not touch the registry, rather it uses local config .ini files for controlling its variables, speed values, and enabling or disabling routines or features.*
 
 *If you wish to compile the files yourself, follow the below instructions.*
 
