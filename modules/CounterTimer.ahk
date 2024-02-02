@@ -1,4 +1,4 @@
-;;;; https://www.autohotkey.com/boards/viewtopic.php?t=87367
+
 fsize:=32
 
 #NoEnv
