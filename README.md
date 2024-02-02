@@ -9,6 +9,7 @@ Handles:
 
 
 INSTALLATION:
+
 Place the "AutoHotspotHandler.exe", file at the root of your C:\ drive. 
 
 Optionally, you may use the Windows Task Scheduler to create a task with the condition to run on Logon using administrator priviledges, so this just automatically runs CHain Overflow the first time you logon to your Windows account.
@@ -17,6 +18,7 @@ If you wish to compile the files yourself, follow the below instructions.
 
 <br>
 COMPILING:
+
 -Install AutoHotkey.
 
 -Download the main repo's source files as a zip.
