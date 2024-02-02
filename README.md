@@ -12,11 +12,15 @@ INSTALLATION:
 
 This engine is completely portable, and will unpack the necessary files it needs whenever they are not present when it is run. It does not touch the registry, rather it uses local config .ini files for controlling its variables, speed values, and enabling or disabling routines or features.
 
-Place the "AutoHotspotHandler.exe", file at the root of your C:\ drive. 
+*If you wish to compile the files yourself, follow the below instructions.*
 
-Optionally, you may use the Windows Task Scheduler to create a task with the condition to run on Logon using administrator priviledges, so this just automatically runs Chain Overflow the first time you logon to your Windows account.
+-Download the newest ChainOverflow.exe file from the newest release listed under the [Releases section here](https://github.com/A-gent/ChainOverflow/releases).
 
-If you wish to compile the files yourself, follow the below instructions.
+-Place the "AutoHotspotHandler.exe", file at the root of your C:\ drive. 
+
+-Optionally, you may use the Windows Task Scheduler to create a task with the condition to run on Logon using administrator priviledges, so this just automatically runs Chain Overflow the first time you logon to your Windows account.
+
+
 
 <br>
 COMPILING:
