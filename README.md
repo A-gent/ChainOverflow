@@ -27,7 +27,7 @@ COMPILING:
 
 -Unzip the source files into your new folder.
 
--Using the IDE of your choice, open the 'autohotspot_handler.ahk' file, this is the main script. Within this file, edit the FileInstall lines near the top of the script to reflect the current directories of each necessary source file.
+-Using the IDE of your choice, open the 'autohotspot_handler.ahk' file, this is the main script. Within this file, edit the FileInstall lines near the top of the script to reflect the current directories of each necessary source file within your newly created folder.
 
 -Use the AutoHotkey compiler to compile 'autohotspot_handler.ahk', name the .exe whatever you choose.
 
