@@ -15,7 +15,7 @@ Optionally, you may use the Windows Task Scheduler to create a task with the con
 
 If you wish to compile the files yourself, follow the below instructions.
 
-<br><br>
+<br>
 COMPILING:
 -Install AutoHotkey.
 
