@@ -6,6 +6,9 @@ Handles:
 -Useful tools
 -More to come
 <br>
+<br>
+<br>
+<br>
 
 INSTALLATION:
 Place the "AutoHotspotHandler.exe", file at the root of your C:\ drive. 
