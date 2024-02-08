@@ -1,0 +1,23 @@
+
+
+
+
+
+------------------------------------------COMPILATION------------------------------------------
+
+
+
+Compile "autohotspot_handler.ahk" inside this base folder, do not
+attempt to compile anywhere else, and if on a new machine make sure to update the
+'FileInstall' strings at the autoexec (top) section of the source file to reflect any 
+changes in directories pointing to any respective files or modules needed to be packed away
+into the new distribution.
+
+
+RENAME COMPILATION OUTPUT FILE FROM "autohotspot_handler.exe" to "AutoHotspotHandler.exe", then
+place the new binaries at the root of your system (usually C:\) Drive
+
+
+
+
+-----------------------------------------------------------------------------------------------
